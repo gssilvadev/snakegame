@@ -5,6 +5,8 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    background-color:white;
+    background-color:rgba(5, 27, 59, 0.932);
     color: rgb(52, 165, 52);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
 }
